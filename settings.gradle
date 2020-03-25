@@ -1,0 +1,2 @@
+rootProject.name='Kmod-sd'
+include ':app'

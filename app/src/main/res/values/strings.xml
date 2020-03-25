@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kmod-sd</string>
+    <string name="refresh">refresh</string>
+    <string name="loading">loading</string>
+
+    <string name="cpu">cpu</string>
+    <string name="currnt_mode">currnt mode</string>
+    <string name="status">Status</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="powersaver">powersaver</string>
+    <string name="sd_tweak">sd-tweak</string>
+
+    <string name="game_mode">Game Mode</string>
+
+    <string name="advance">Advance</string>
+    <string name="default_mode">default mode</string>
+
+</resources>
