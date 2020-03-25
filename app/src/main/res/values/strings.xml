@@ -14,5 +14,6 @@
 
     <string name="advance">Advance</string>
     <string name="default_mode">default mode</string>
+    <string name="current">current</string>
 
 </resources>

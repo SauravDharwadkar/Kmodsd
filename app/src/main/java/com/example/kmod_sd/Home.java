@@ -106,7 +106,7 @@ for (int i =0 ; i<8;i++){
         b3=(Button)findViewById(R.id.bm3);
         b4=(Button)findViewById(R.id.bm4);
 
-
+        Refresh(cv,cpus);
        ref.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View v) {
